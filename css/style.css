@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@900&family=Roboto:wght@100;900&display=swap');
+
+body {
+    
+    background-color: #f8f9fa;;
+   
+}
+
+header {
+    border-top: 20px;
+    background-color: #0d0a07;
+    
+}
+
+
+
+.esiloNav{
+    font-size: 1rem;
+    padding: 1px;
+    
+     
+}
+
+
+
+
+.estiloNav {
+    padding: 10px 40px!important;
+    background-color: #7b7b7b!important;
+    text-transform: uppercase;
+    
+    color: #e1e1e1!important;
+
+    
+}
+
+
+
+.estiloNav:hover {
+    
+    color: #AFAFAF!important;
+
+    
+
+}
+
+.active  {
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    
+
+}
+
+
+
+/* productos */
+
+.tituloSuplementos {
+    
+    color: #2F2F2F;
+    
+    padding: 20px; 
+    
+}
+
+
+
+
+/* cards */
+
+
+
+.colorBtn {
+    
+    background-color: #5a9e74;
+    color: #fff;
+}
+
+.colorBtn:hover {
+    background-color: #4B7E60;
+    color: #fff;
+}
+
+footer {
+    background-color: #060503;
+    color: #fff;
+    padding: 100px;
+    font-size: 13px;
+}
+
+footer ul li a {
+    color: #fff!important;
+    text-transform: none;
+    
+}
+
+.card {
+    margin: 0.5rem;
+    padding: 0px;
+}
+
+.marcasP{
+
+    padding: 15px ;
+
+}
+
+.marcasA {
+    padding: 15px;
+    font-size: 15px;
+    color: #5a9e74;;
+
+}
+
+h3 {
+    font-weight: bold ; 
+    font-family: 'Kanit', sans-serif!important; 
+    text-transform: uppercase; 
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
