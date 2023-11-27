@@ -1,0 +1,30 @@
+/*Encabezado*/
+header {
+    border-top: 20px;
+    background-color: $color-negro;
+    margin-bottom: 20px;
+}
+
+.estiloNav {
+    padding: 10px 40px !important;
+    background-color: $color-gris;
+    text-transform: uppercase;
+    color: $color-blanco;
+
+    &:hover {
+        color: $color-gris-claro !important;
+    }
+}
+
+.active {
+    border-top: 1px solid $color-blanco;
+    border-bottom: 1px solid $color-blanco;
+    color: $color-blanco!important;
+}
+
+h3 {
+    font-weight: bold;
+    font-family: 'Kanit', sans-serif;
+    text-transform: uppercase;
+    font-size: 30px;
+}

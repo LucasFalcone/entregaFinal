@@ -1,0 +1,18 @@
+@mixin anclas {
+    text-decoration: none;
+    color:black;
+}
+
+footer {
+    background-color: $color-negro-footer;
+    color: $color-blanco-botones;
+    padding: 100px;
+    font-size: 13px;
+
+    ul li a {
+        @include anclas;
+        color: $color-blanco;
+        text-transform: none;
+        
+    }
+}

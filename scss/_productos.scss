@@ -1,0 +1,36 @@
+/* productos */
+
+.tituloSuplementos {
+    color: $color-gris-oscuro;
+    padding: 20px;
+}
+
+/* cards */
+
+.colorBtn {
+    display: inline-block;
+    padding: 10px 30px;
+    width: auto;
+    background-color: $color-verde-claro;
+    color: $color-blanco-botones;
+
+    &:hover {
+        background-color: $color-verde-oscuro;
+        color: $color-blanco-botones;
+    }
+}
+
+.card {
+    margin: 0.5rem;
+    padding: 0px;
+}
+
+.marcasP {
+    padding: 15px;
+}
+
+.marcasA {
+    padding: 15px;
+    font-size: 15px;
+    color: $color-verde-claro;
+}
