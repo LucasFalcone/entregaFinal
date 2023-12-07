@@ -29,6 +29,7 @@ header {
   text-transform: uppercase;
   color: #e1e1e1;
 }
+
 .estiloNav:hover {
   color: #AFAFAF !important;
 }
@@ -60,6 +61,7 @@ h3 {
   background-color: #5a9e74;
   color: #fff;
 }
+
 .colorBtn:hover {
   background-color: #4B7E60;
   color: #fff;
@@ -87,6 +89,7 @@ footer {
   padding: 100px;
   font-size: 13px;
 }
+
 footer ul li a {
   text-decoration: none;
   color: black;
@@ -95,8 +98,8 @@ footer ul li a {
 }
 
 .contenedorRedes {
- display: flex;
- justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .contenedorRedes ul {
@@ -118,7 +121,7 @@ footer ul li a {
 
 .contenedorRedes ul li .fa {
   color: #000;
-  
+
 }
 
 /*# sourceMappingURL=style.css.map */
